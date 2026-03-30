@@ -80,8 +80,8 @@ Salir
 ### Registro de producto
 
 
-Ingrese ID: 10
-Ingrese nombre: Laptop
+Ingrese ID: 123
+Ingrese nombre: Carro
 Producto registrado.
 
 
@@ -90,9 +90,9 @@ Producto registrado.
 ### Inventario ordenado
 
 
-ID: 5 | Nombre: Mouse
-ID: 10 | Nombre: Laptop
-ID: 20 | Nombre: Teclado
+ID: 123 | Nombre: carro
+ID: 124 | Nombre: Moto
+ID: 125 | Nombre: jate
 
 
 ---
@@ -100,7 +100,7 @@ ID: 20 | Nombre: Teclado
 ### Búsqueda
 
 
-Ingrese ID a buscar: 10
+Ingrese ID a buscar: 123
 Producto encontrado.
 
 
@@ -118,7 +118,7 @@ Producto encontrado.
 
 ## Evidencias
 
-Agregar capturas de pantalla de:
+Capturas de pantalla de:
 
 - Menú en ejecución  
 ![alt text](image.png)
@@ -137,4 +137,8 @@ Agregar capturas de pantalla de:
 
 ## Repositorio
 
-Coloca aquí el enlace: https://github.com/BristhynGP/ProyectoArbol.git
+Enlace: https://github.com/BristhynGP/ProyectoArbol.git
+
+## Video
+
+Enlace: https://youtu.be/MJY5tecCZuw
