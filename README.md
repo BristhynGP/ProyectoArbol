@@ -57,4 +57,84 @@ Incluye un menú interactivo con:
 1. Abrir el proyecto en Visual Studio Code
 2. Tener instalado JDK (Eclipse Temurin recomendado)
 3. Abrir la terminal en la carpeta del proyecto
-4. Compilar:
+4. Ejecutar:    java Main
+
+
+---
+
+
+## Ejemplo de uso
+
+### Menú principal
+
+
+===== TREE-STOCK =====
+
+Registrar Producto
+Mostrar Inventario
+Buscar Producto
+Salir
+
+---
+
+### Registro de producto
+
+
+Ingrese ID: 10
+Ingrese nombre: Laptop
+Producto registrado.
+
+
+---
+
+### Inventario ordenado
+
+
+ID: 5 | Nombre: Mouse
+ID: 10 | Nombre: Laptop
+ID: 20 | Nombre: Teclado
+
+
+---
+
+### Búsqueda
+
+
+Ingrese ID a buscar: 10
+Producto encontrado.
+
+
+---
+
+## Explicación del árbol
+
+- Cada producto es un nodo del árbol
+- Si el ID es menor → va a la izquierda
+- Si el ID es mayor → va a la derecha
+- Se usa recursividad para insertar y buscar
+- El recorrido inorden muestra los datos ordenados automáticamente
+
+---
+
+## Evidencias
+
+Agregar capturas de pantalla de:
+
+- Menú en ejecución  
+![alt text](image.png)
+
+- Inserción de productos  
+![alt text](image-1.png)
+
+- Inventario mostrado  
+![alt text](image-2.png)
+
+- Búsqueda de producto 
+![alt text](image-3.png)
+
+
+---
+
+## Repositorio
+
+Coloca aquí el enlace: https://github.com/BristhynGP/ProyectoArbol.git
